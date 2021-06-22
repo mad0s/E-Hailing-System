@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LOGIN_PAGE
+comment1.params=
+comment1.target=LOGIN_PAGE()
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=evt
+comment4.target=void\ LOGIN_BUTTON(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ SIGN_UP_BUTTON(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ generateMenu()
+comment7.params=
+comment7.target=void\ LOGIN()
+comment8.params=
+comment8.target=void\ run()
+numComments=9

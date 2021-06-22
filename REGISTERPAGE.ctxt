@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=REGISTERPAGE
+comment1.params=genderChoose
+comment1.target=void\ setGender(java.lang.String)
+comment10.params=
+comment10.target=void\ generateMenu()
+comment11.params=
+comment11.target=void\ REGISTER()
+comment12.params=
+comment12.target=void\ run()
+comment2.params=
+comment2.target=java.lang.String\ getGender()
+comment3.params=
+comment3.target=REGISTERPAGE()
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ SIGN_UP_BUTTON(java.awt.event.ActionEvent)
+comment8.params=evt
+comment8.target=void\ LOG_IN(java.awt.event.ActionEvent)
+comment9.params=evt
+comment9.target=void\ GENDER(java.awt.event.ActionEvent)
+numComments=13
